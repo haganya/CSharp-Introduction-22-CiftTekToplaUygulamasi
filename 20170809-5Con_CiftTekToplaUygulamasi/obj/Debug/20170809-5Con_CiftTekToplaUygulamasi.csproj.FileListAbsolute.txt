@@ -1,0 +1,6 @@
+C:\Users\Echo\OneDrive\Hakan Csharp\20170809-5Con_CiftTekToplaUygulamasi\20170809-5Con_CiftTekToplaUygulamasi\bin\Debug\20170809-5Con_CiftTekToplaUygulamasi.exe.config
+C:\Users\Echo\OneDrive\Hakan Csharp\20170809-5Con_CiftTekToplaUygulamasi\20170809-5Con_CiftTekToplaUygulamasi\bin\Debug\20170809-5Con_CiftTekToplaUygulamasi.exe
+C:\Users\Echo\OneDrive\Hakan Csharp\20170809-5Con_CiftTekToplaUygulamasi\20170809-5Con_CiftTekToplaUygulamasi\bin\Debug\20170809-5Con_CiftTekToplaUygulamasi.pdb
+C:\Users\Echo\OneDrive\Hakan Csharp\20170809-5Con_CiftTekToplaUygulamasi\20170809-5Con_CiftTekToplaUygulamasi\obj\Debug\20170809-5Con_CiftTekToplaUygulamasi.csprojResolveAssemblyReference.cache
+C:\Users\Echo\OneDrive\Hakan Csharp\20170809-5Con_CiftTekToplaUygulamasi\20170809-5Con_CiftTekToplaUygulamasi\obj\Debug\20170809-5Con_CiftTekToplaUygulamasi.exe
+C:\Users\Echo\OneDrive\Hakan Csharp\20170809-5Con_CiftTekToplaUygulamasi\20170809-5Con_CiftTekToplaUygulamasi\obj\Debug\20170809-5Con_CiftTekToplaUygulamasi.pdb
